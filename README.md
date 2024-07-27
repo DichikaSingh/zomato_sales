@@ -1,1 +1,2 @@
 # zomato_sales
+This report on Zomato analyzes key metrics related to restaurant performance, including order volumes, customer ratings, delivery times, and revenue trends. It provides insights into popular restaurants, customer preferences, and operational efficiency. By evaluating these factors, the report helps stakeholders make informed decisions to enhance service quality, optimize delivery processes, and improve overall business performance.
